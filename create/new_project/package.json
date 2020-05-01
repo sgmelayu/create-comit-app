@@ -6,13 +6,17 @@
   "scripts": {
     "start": "node ./src/index.js",
     "start-env": "comit-scripts start-env",
-    "force-clean-env": "comit-scripts force-clean-env"
+    "force-clean-env": "comit-scripts force-clean-env",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "comit-sdk": "^0.15.2"
+    "comit-sdk": "^0.15.2",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "comit-scripts": "^0.8.3",
     "dotenv": "^8.1.0"
-  }
+  },
+  "snyk": true
 }
