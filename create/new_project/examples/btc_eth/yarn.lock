@@ -171,10 +171,10 @@
   resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.3.tgz#7ee330ba7caafb98090bece86a5ee44115904c2c"
   integrity sha512-ewFXqrQHlFsgc09MK5jP5iR7vumV/BYayNC6PgJO2LPe8vrnNFyjQjSppfEngITi0qvfKtzFvgKymGheFM9UOA==
 
-"@types/readline-sync@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/@types/readline-sync/-/readline-sync-1.4.3.tgz#eac55a39d5a349912062c9e5216cd550c07fd9c8"
-  integrity sha512-YP9NVli96E+qQLAF2db+VjnAUEeZcFVg4YnMgr8kpDUFwQBnj31rPLOVHmazbKQhaIkJ9cMHsZhpKdzUeL0KTg==
+"@types/readline-sync@^1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@types/readline-sync/-/readline-sync-1.4.5.tgz#8e0207707eb73e667d5fa140d6e6ea757f604f91"
+  integrity sha512-vD/LCH84gWf9CoJaqGL8Ey0/oFrgHNEf/R/SPzoDeZa5Zr8Fh5tPCaTF2UC/m1shAcAHVHHZmDQrsoWMkCj0gA==
 
 "@types/serve-static@*":
   version "1.13.3"
