@@ -921,9 +921,9 @@
     "@types/node" "*"
 
 "@types/targz@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/targz/-/targz-1.0.0.tgz#cca3b2c87548d98f961b57306dc36d06f9fd15b2"
-  integrity sha512-kNFPOpsmdtT+DMXHuu5H7gXD5LlMHtS/kSQjuVY3QqxHQqGFV854o+EimC1GZ5/+iYZWzk9dNRiAUFbI/mvUsQ==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/targz/-/targz-1.0.3.tgz#24ef4504ce98e823e7238596c91e34a0fd6633ed"
+  integrity sha512-+G0vJmnC/HUEmqUvQDm6CccQpnks2/iJMNMlSvDbE6fmgVyGZ2Yt9T1t/RX/BtBKCh5di16kEQi2927FvKKMvw==
   dependencies:
     "@types/tar-fs" "*"
 
