@@ -123,10 +123,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.17.tgz#7a183163a9e6ff720d86502db23ba4aade5999b8"
   integrity sha512-gpNnRnZP3VWzzj5k3qrpRC6Rk3H/uclhAVo1aIvwzK5p5cOrs9yEyQ8H/HBsBY0u5rrWxXEiVPQ0dEB6pkjE8Q==
 
-"@types/readline-sync@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/@types/readline-sync/-/readline-sync-1.4.3.tgz#eac55a39d5a349912062c9e5216cd550c07fd9c8"
-  integrity sha512-YP9NVli96E+qQLAF2db+VjnAUEeZcFVg4YnMgr8kpDUFwQBnj31rPLOVHmazbKQhaIkJ9cMHsZhpKdzUeL0KTg==
+"@types/readline-sync@^1.4.7":
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/@types/readline-sync/-/readline-sync-1.4.7.tgz#2a1c3ba6b45724bda68d0dfbac6ed32afccb8e46"
+  integrity sha512-tPPerBmYwWX66KcZFYPjCuJfF8ykGD0GtPx6r33KYm0v4g4x68VK33/v4kLEoDwnnkYwcY2s9oYgMfTKMr3krg==
 
 "@uphold/request-logger@^2.0.0":
   version "2.0.0"
