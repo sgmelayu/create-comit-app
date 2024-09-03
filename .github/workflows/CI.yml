@@ -104,13 +104,13 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Download create-comit-app binary
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: create-comit-app-ubuntu-debug
           path: target/debug
 
       - name: Download comit-scripts binary
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: comit-scripts-ubuntu-debug
           path: target/debug
