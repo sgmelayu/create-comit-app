@@ -24,10 +24,10 @@
     },
     "dependencies": {
         "@types/express": "^4.17.9",
-        "axios": "^0.21.0",
+        "axios": "^1.13.5",
         "comit-sdk": "^0.15",
         "dotenv": "^8.1.0",
-        "express": "^4.17.1",
+        "express": "^4.22.0",
         "moment": "^2.29.1",
         "readline-sync": "^1.4.10",
         "satoshi-bitcoin-ts": "^0.2.4"
